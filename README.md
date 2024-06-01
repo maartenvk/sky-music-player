@@ -1,6 +1,8 @@
 # Sky music player
 For Sky: Children of the Light.  
-Music can be downloaded as JSON files from [sky-music github](https://sky-music.github.io/index.html)
+Music can be downloaded as JSON files from [sky-music github](https://sky-music.github.io/index.html)  
+
+**Warning**: This script sends key input. Focus on the game window after starting the program to prevent accidental keys pressed in other games. To stop this application either close the terminal or press `Ctrl+C` or `Ctrl+\` to interrupt. 
 
 # Usage
 Play a local file:  
