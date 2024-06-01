@@ -13,3 +13,7 @@ Automatically play local files in the `musics/` folder:
 `./main.py auto`  
 
 For additional verbose information on notes being played add `--verbose` flag
+
+# Keybindings
+Do you have different key bindings for the notes?  
+In the `play_key(key)` function is a `bindings` string with default keybindings which can be modified to accommodate to your needs.
